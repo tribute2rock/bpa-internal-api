@@ -1,0 +1,15 @@
+\node_modules
+
+\build
+\dist
+\temp
+\doc
+\manual
+\logs
+\ssl
+\public
+
+.env
+package-lock.json
+.vscode
+uploads
